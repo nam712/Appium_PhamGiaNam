@@ -16,7 +16,7 @@
 
 ### **Test Case 2: Chỉnh sửa ghi chú**
 
-- **Mô tả:** Mở ghi chú vừa tạo, thêm 2 mục To-Do có nội dung `"check"` và `"done"`.
+- **Mô tả:** Mở ghi chú vừa tạo, thêm 2 mục To-Do có nội dung `"check"` và `"done"`
 - **Kết quả mong đợi:** Các mục To-Do được thêm và hiển thị đúng.
 - **Kết quả thực tế:** Passed
 
