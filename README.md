@@ -77,10 +77,3 @@ pytest tests/test.py
 
 [Xem video](./videos/demo_appium.mp4)
 
-## Hình ảnh kiểm thử
-
-<p align="center">
-  <img src="screenshots/test1.png" alt="Test Case 1" width="250"/>
-  <img src="screenshots/test2.png" alt="Test Case 2" width="250"/>
-  <img src="screenshots/test3.png" alt="Test Case 3" width="250"/>
-</p>
